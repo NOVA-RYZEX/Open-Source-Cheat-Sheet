@@ -117,7 +117,7 @@ Open source software is software with source code that anyone can inspect, modif
 ### Benefits of Contributing to Open Source
 - Enhance your coding skills and learn from experienced developers:
   - Understanding Git and GitHub.
-  - Familiarity with other version control systems (e.g., SVN, Mercurial).
+  - Familiarity with other version control systems (e.g., [SVN](https://subversion.apache.org/), [Mercurial](https://www.mercurial-scm.org/).
   - Understanding software development processes, concepts, and data structures.
   - Increasing knowledge of common programming concepts and data structures.
 - Improve communication skills and problem-solving abilities.
@@ -150,6 +150,8 @@ Open source software is software with source code that anyone can inspect, modif
   - [Coursera: Open Source Software Development](https://www.coursera.org/courses?query=open%20source%20software%20development)
   - [Udacity: Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
   - [FreeCodeCamp](https://www.freecodecamp.org/)
+  - [Geeks For Geeks](https://www.geeksforgeeks.org/)
+  - [Javapoint](https://www.javatpoint.com/)
 
 - **Project Ideas and Inspiration:**
   - [Awesome Open Source](https://awesomeopensource.com/)
